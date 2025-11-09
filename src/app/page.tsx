@@ -167,7 +167,7 @@ export default function Home() {
                 variant="outline"
                 size="icon"
                 className="neo-brutal-button cursor-pointer h-9 w-9 sm:h-10 sm:w-10"
-                onClick={() => window.open("https://github.com/Abhijit-Jha/know-your-worth", "_blank")}
+                onClick={() => window.open("https://github.com/Abhijit-Jha/get-your-ctc", "_blank")}
               >
                 <Github className="h-4 w-4 sm:h-5 sm:w-5" />
               </Button>

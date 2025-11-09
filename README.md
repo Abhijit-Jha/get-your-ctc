@@ -40,8 +40,8 @@ A brutally honest, AI-powered salary estimator that analyzes GitHub profiles to 
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/Abhijit-Jha/know-your-worth.git
-cd know-your-worth
+git clone https://github.com/Abhijit-Jha/get-your-ctc.git
+cd get-your-ctc
 ```
 
 2. **Install dependencies**

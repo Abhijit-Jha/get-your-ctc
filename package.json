@@ -1,7 +1,12 @@
 {
-  "name": "know-your-worth",
-  "version": "0.1.0",
+  "name": "get-your-ctc",
+  "version": "1.0.0",
   "private": true,
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Abhijit-Jha/get-your-ctc.git"
+  },
+  "homepage": "https://github.com/Abhijit-Jha/get-your-ctc",
   "scripts": {
     "dev": "next dev",
     "build": "next build",

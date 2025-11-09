@@ -23,6 +23,13 @@ const jetbrainsMono = JetBrains_Mono({
 export const metadata: Metadata = {
   title: "Know Your Worth - Developer Salary Estimator",
   description: "Analyze your GitHub profile to discover your market value with AI-powered insights",
+  icons: {
+    icon: [
+      { url: '/favicon.svg', type: 'image/svg+xml' },
+      { url: '/favicon.ico' }
+    ],
+    apple: '/apple-icon.png',
+  },
 };
 
 export const viewport = {
