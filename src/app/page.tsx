@@ -10,7 +10,7 @@ import { ThemeToggle } from "@/components/theme-toggle";
 import { toast } from "sonner";
 import { fetchGitHubProfile, extractUsernameFromUrl } from "@/lib/github";
 import { estimateCTC } from "@/lib/gemini";
-import { Github, Twitter, Download } from "lucide-react";
+import { Github, Twitter, Download, Coffee } from "lucide-react";
 import { toPng } from "html-to-image";
 
 export default function Home() {
@@ -147,6 +147,21 @@ export default function Home() {
               initial={{ y: -20, opacity: 0 }}
               animate={{ y: 0, opacity: 1 }}
               transition={{ delay: 0.1 }}
+            >
+              <Button
+                variant="outline"
+                size="icon"
+                className="neo-brutal-button cursor-pointer h-9 w-9 sm:h-10 sm:w-10"
+                onClick={() => window.open("https://buymeacoffee.com/abhijit1", "_blank")}
+              >
+                <Coffee className="h-4 w-4 sm:h-5 sm:w-5" />
+              </Button>
+            </motion.div>
+
+            <motion.div
+              initial={{ y: -20, opacity: 0 }}
+              animate={{ y: 0, opacity: 1 }}
+              transition={{ delay: 0.15 }}
             >
               <Button
                 variant="outline"
