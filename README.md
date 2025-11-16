@@ -32,7 +32,7 @@ No login required. No BS. Just honest estimates.
 ## Author
 
 Abhijit Jha
-- Twitter: @JhaAbhijit1
+- Twitter: @abhijitwt
 - GitHub: @Abhijit-Jha
 - Buy Me a Coffee: https://buymeacoffee.com/abhijit1
 
